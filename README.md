@@ -18,4 +18,4 @@ Personalizazação do layout do relatório
 
 ![Dashboard](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Dashboard.png)
 
-Link para visualizar o Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMzY1N2I5NDAtYmQ4Ni00MjhlLTgzMGYtMmFjZDNmMDNjMjFmIiwidCI6Ijk1N2NjZmQwLTlhNjYtNDNhOC04ZDE3LTIxNjMyNjY0ZjU1MiJ9
+Link para visualizar o Dashboard: https://bit.ly/39IeRwR
