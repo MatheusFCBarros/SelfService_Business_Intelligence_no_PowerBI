@@ -19,7 +19,9 @@ ETL - Extrair, Transformar e Carregar dados
 Criação de calculos com funções DAX
 
 ![DAX1](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/DAX1.png)
+
 ![DAX2](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/DAX2.png)
+
 ![DAX3](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/DAX3.png)
 
 Personalizazação do layout do relatório
