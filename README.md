@@ -16,3 +16,4 @@ Criação de calculos com funções DAX
 
 Personalizazação do layout do relatório
 
+![Dashboard](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Dashboard.png)
