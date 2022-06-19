@@ -8,15 +8,15 @@ Dominar os conceitos básicos dessa ferramenta é fundamental para o sucesso pro
 
 Nesse projeto eu realizei etapas como:
 
-Conexão com fontes de dados
+## Conexão com fontes de dados
 
 ![BaseDados](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/importando_base_dados.png)
 
-ETL - Extrair, Transformar e Carregar dados
+## ETL - Extrair, Transformar e Carregar dados
 
 ![ETL](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/ETL.png)
 
-Criação de calculos com funções DAX
+## Criação de calculos com funções DAX
 
 ![DAX1](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/DAX1.png)
 
@@ -24,7 +24,7 @@ Criação de calculos com funções DAX
 
 ![DAX3](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/DAX3.png)
 
-Personalizazação do layout do relatório
+## Personalizazação do layout do relatório
 
 ![Dashboard](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/Dashboard.png)
 
