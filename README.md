@@ -24,7 +24,7 @@ Nesse projeto eu realizei etapas como:
 
 ![DAX3](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/DAX3.png)
 
-## Personalizazação do layout do relatório
+## Personalização do layout do relatório
 
 ![Dashboard](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/Dashboard.png)
 
