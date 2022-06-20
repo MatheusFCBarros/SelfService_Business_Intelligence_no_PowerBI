@@ -14,7 +14,7 @@ Nesse projeto eu realizei etapas como:
 
 ## ETL - Extrair, Transformar e Carregar dados
 
-![ETL](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/ETL.png)
+![ETL](https://github.com/MatheusFCBarros/SelfService_Business_Intelligence_no_PowerBI/blob/main/Imagens/ETL1.png)
 
 ## Criação de calculos com funções DAX
 
